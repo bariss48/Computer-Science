@@ -1,0 +1,15 @@
+
+Dataset linki:
+
+Dataset konusu: Turkey
+
+https://www.kaggle.com/yemregundogmus/turkey-political-opinions
+
+( Kaggle'daki datasetten 3 adet dataset çıkmakta ben data.csv olanı kullandım. )
+
+Sunum linki ( YouTube ) :
+
+https://www.youtube.com/watch?v=m-gDvFo6kXY
+
+
+Berk Barış Kara - 18253007

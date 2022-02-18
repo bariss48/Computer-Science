@@ -1,0 +1,29 @@
+1-)Oyun senaryosunun tasarlanması 21 gün
+
+2-)-Ortam tasarımı 15 gün
+
+3-)-Ana karakter tasarımı 14 gün
+
+4-)-Figüran tasarımı 7 gün
+
+5-)-Araçların tasarlanması 15 gün
+
+6-)-Target system 26 gun.  
+
+6-)-Tuş kontrolleri 4 gün. Paralel gidebilir targetla
+
+7-)Grafiklerin düzenlenmesi/ Landscape-details 38 gün
+
+7-)-menü tasarımı 5 gün Grafikle paralel gidebilir
+
+8-)Dinamiklerin – mekaniklerin uyarlanması?? 47 gün 
+
+9-)Multiplayer için network ayarları 24 gün
+
+9-)-Modlar 23 gün paralel gidebilir multiplayerla
+
+10-)Yapay zekanın kodlanması 18 gün
+
+11-)-development system 15 gün
+
+
